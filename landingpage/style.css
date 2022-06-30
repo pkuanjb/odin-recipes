@@ -1,0 +1,67 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F9FAF8;  
+}
+.nav-bar-container,
+.container {
+    display: block;
+}
+
+.nav-bar-container,
+.top {
+    background-color: #1F2937;
+}
+
+.nav-bar-item,
+.content {
+    font-size: 18px;
+    color: #E5E7EB !important;  
+}
+
+.left-side .title {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.information {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937
+}
+
+.card-text p,
+.contact-us-text p{
+    color: #E5E7EB; 
+    font-size: 16px;
+}
+
+.bottom {
+    background-color: #E5E7EB;
+}
+
+.quote-text p{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937
+}
+
+.quote-author {
+    font-size: 32px;
+    font-weight: 800;
+    color: #1F2937
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 0.3rem;
+    border-color: #3882F6;
+}
+
+.contact-us {
+    background-color: #3882F6;
+}
+
+.contact-us-button button{
+    border-color: white;
+}
